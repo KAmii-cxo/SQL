@@ -6,7 +6,7 @@
 3. [Join Tables](#join-tables)
 4. [Perform Calculations](#perform-calculations)
 
-[Google portfolio projects file here](https://drive.google.com/drive/folders/1onzeZlgDmfvSWU6HE4Avl1EzOjDalOur?usp=drive_link)
+Google portfolio SQL projects [here](https://drive.google.com/drive/folders/1onzeZlgDmfvSWU6HE4Avl1EzOjDalOur?usp=drive_link)
 
 ---
 
