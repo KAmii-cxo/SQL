@@ -45,7 +45,7 @@ SELECT *
 Returns all columns in a table
 ```
 ---
-## Apply Filters To SQL Queries
+## [Apply Filters To SQL Queries](https://docs.google.com/document/d/1Lxh-hgu4XO7LDfN3pz0-GI_QIGWp8H0K8QVxV91sIVI/edit?usp=drive_link)
 
 `WHERE` and the other SQL keywords and characters that follow are used when applying filters to SQL queries.
 
